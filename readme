@@ -1,0 +1,21 @@
+使用java代码操作数据库构建一个仓库管理微系统
+
+1.jdbc
+2.泛型接口
+3.Dao
+4.数据库 增 和查, 删和改未处理
+
+				   2017年3月8日18:27:17
+									
+									
+1.instanceof 的使用 : com.zhiyou.indemo.test 下 TestInstanceof.java	
+2.反射 : com.zhiyou.indemo.reflect  下的 TestReflet.java
+
+					2017年3月9日12:07:34	
+						
+															
+1.重写和重载	com.zhiyou.indemo.oo 下的 Calculate.java
+2.数组 	TestArray.java	
+3. AbstractDao的封装 com.zhiyou.indemo.dao 下的 AbstractDao
+						2017年3月9日18:20:37
+									
